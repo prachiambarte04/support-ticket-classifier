@@ -1,0 +1,41 @@
+subject,body,category
+Payment failed,My credit card payment was declined while purchasing a subscription.,Billing
+Incorrect invoice,I received an invoice with an incorrect amount charged to my account.,Billing
+Refund request,I would like to request a refund for the payment I made last week.,Billing
+Charged twice,My account was charged twice for the same transaction.,Billing
+Subscription payment,The payment for my monthly subscription was deducted from my account.,Billing
+Billing information,How can I update the billing information associated with my account?,Billing
+Invoice not received,I have not received my invoice for this month's subscription.,Billing
+Unexpected charge,I noticed an unexpected charge on my credit card statement.,Billing
+Payment method,How can I change my saved payment method?,Billing
+Transaction failed,My online transaction failed but the amount was deducted from my bank account.,Billing
+Application error,The application shows an error whenever I try to open it.,Technical
+Login problem,I cannot log into my account because the login page keeps loading.,Technical
+Password reset,The password reset link is not working for my account.,Technical
+Server down,The website appears to be down and I cannot access the service.,Technical
+Software crash,The application crashes every time I try to upload a document.,Technical
+Internet connection,The system is not connecting to the internet properly.,Technical
+System error,I am getting a technical error when trying to use the dashboard.,Technical
+File upload,I cannot upload my file because the upload button is not responding.,Technical
+Account access,I am unable to access my account even after entering the correct password.,Technical
+Website slow,The website is extremely slow and takes several minutes to load.,Technical
+Leave request,I would like to apply for five days of annual leave next month.,HR
+Salary issue,I have not received my salary for this month.,HR
+Employee benefits,Can you provide information about the employee benefits available to staff?,HR
+Job application,I would like to know the status of my job application.,HR
+Resignation,I want to submit my resignation and need to know the required process.,HR
+Attendance issue,My attendance record is incorrect and needs to be updated.,HR
+Joining process,Please provide information about the documents required for joining.,HR
+Maternity leave,I would like to know the company's maternity leave policy.,HR
+Payslip request,I need a copy of my payslip for the previous month.,HR
+Training program,Can you tell me about the upcoming employee training programs?,HR
+Office timings,What are the working hours of the office?,General
+Company information,Can you provide more information about the company and its services?,General
+Office location,Please tell me the location of the nearest company office.,General
+Contact information,How can I contact the customer support team?,General
+Working days,Which days of the week is the office open?,General
+Service information,I would like to know more about the services provided by the company.,General
+Holiday schedule,Where can I find the company's holiday calendar?,General
+General inquiry,I have a general question about the services offered by your company.,General
+Support availability,What are the customer support hours?,General
+Feedback,I would like to provide feedback about my overall experience with the company.,General
